@@ -460,7 +460,7 @@ style>
     <nav>
         <a href="#" class="logo">klug</a>
         <div class="nav-links">
-            <a href="TB2WEB.html">Home</a>
+            <a href="TB2WEB.html">index</a>
             <a href="tentang-kami.html">Tentang Kami</a>
             <a href="#">Layanan Kami</a>
             <a href="#">Artikel</a>
